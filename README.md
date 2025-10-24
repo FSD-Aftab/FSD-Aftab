@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, Iam Aftab Shaik 👋
 
-<!--
-**FSD-Aftab/FSD-Aftab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Python Full-stack Developer & Full-stack Web Developer** ✨Python * HTML * CSS✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Current Project: **Responsive Web page** (HTML + CSS + JAVA SCRIPT)
+- 🌱 I’m currently learning **Python Full-stack development & Full-stack web development**
+- 📫 shaikaftab1379@gmail.com
+- Portfolio/Linkedin:https://www.linkedin.com/in/fsd-aftab/?originalSubdomain=in
+
+## Tech
+1. PYTHON
+2. HTML
+3. CSS
+
+## Projects (Pinned below)
+1. Responsive Web page - HTML, CSS
